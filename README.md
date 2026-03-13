@@ -32,7 +32,7 @@ To grow from **Data Analytics** into **Data Science, Machine Learning, and AI**,
 - WSCUBE Tech (Upskilling Bharat) "Data Storytelling with Power BI" Professional Certificate [https://github.com/InsightArchitect/Professional-Certificates/blob/main/event-certificate-Data%20Storytelling%20with%20Power%20BI.pdf]
 - WSCUBE Tech (Upskilling Bharat) "AI-Powered Marketing Data Analytics for Beginners" Professional Certificate [https://github.com/InsightArchitect/Professional-Certificates/blob/main/event-certificate-AI-Powered%20Marketing%20Data%20Analytics%20for%20Beginners.pdf]
 - WSCUBE Tech (Upskilling Bharat)"SQL for Data Analytics" [https://github.com/InsightArchitect/Professional-Certificates/blob/main/event-certificate-Master%20SQL%20Basics%20in%2090%20mins.pdf]
-- WSCUBE Tech (Upskilling Bharat) "Dashboard Design Secrets with Power BI Design Smart, AI-Driven Visuals" Professional Certificate 
+- WSCUBE Tech (Upskilling Bharat) "Dashboard Design Secrets with Power BI Design Smart, AI-Driven Visuals" Professional Certificate [https://github.com/InsightArchitect/Professional-Certificates/blob/main/event-certificate-Dashboard%20Design%20Secrets%20with%20Power%20BI%20Design%20Smart%2C%20AI-Driven%20Visuals.pdf]
 
 
 ## Projects and Certificates 
