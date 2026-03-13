@@ -30,7 +30,7 @@ To grow from **Data Analytics** into **Data Science, Machine Learning, and AI**,
 - WSCUBE Tech (Upskilling Bharat) "Microsoft Excel for Data Analysts Essential Functions & Formula" Professional Certificate [https://github.com/InsightArchitect/Professional-Certificates/blob/main/event-certificate-Excel%20for%20Data%20Analysts%20Essential%20Functions%20%26%20Formulas.pdf]
 - WSCUBE Tech (Upskilling Bharat) "Data Visualization using Excel" Professional Certificate [https://github.com/InsightArchitect/Professional-Certificates/blob/main/event-certificate-Data%20Visualisation%20using%20Excel.pdf]
 - WSCUBE Tech (Upskilling Bharat) "Data Storytelling with Power BI" Professional Certificate
-- WSCUBE Tech (Upskilling Bharat) "AI-Powered Marketing Data Analytics for Beginners" Professional Certificate
+- WSCUBE Tech (Upskilling Bharat) "AI-Powered Marketing Data Analytics for Beginners" Professional Certificate [https://github.com/InsightArchitect/Professional-Certificates/blob/main/event-certificate-AI-Powered%20Marketing%20Data%20Analytics%20for%20Beginners.pdf]
 - WSCUBE Tech (Upskilling Bharat)"SQL for Data Analytics"
 - WSCUBE Tech (Upskilling Bharat) "Dashboard Design Secrets with Power BI Design Smart, AI-Driven Visuals" Professional Certificate 
 
