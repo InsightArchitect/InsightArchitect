@@ -1,17 +1,19 @@
 # Hi, I'm Osisami Samuel, Oluwatoni 👋
 
-From Mechanical Engineering to Computer Science | Learning Data Analytics and building real-world data projects.  
-Passionate about **creating business models** and turning data into meaningful insights to support decision-making in Finance, Health, Oil & Gas, and Manufacturing sectors.
+Computer Science student transitioning into Data Analytics.
+Building practical data projects using Excel, SQL, and Power BI while developing strong analytical and business insight skills.
+Interested in applying data analysis to finance, healthcare, manufacturing, and energy sectors.
 
 ## About Me
 I am passionate about transforming raw data into actionable insights that help organizations make better decisions.  
-I focus on applying data analytics to build **business models, optimize processes, and uncover growth opportunities**.
+I focus on applying data and buainess analytics to build **business models & system, optimize processes, and uncover growth opportunities**.
 
 Currently focusing on:
 - Data Analytics
 - Python for Data Analysis
 - SQL
 - Data Visualization
+- Business Intelligence & Analytics
 - Creating Business Models
 
 ## Tools
@@ -23,7 +25,7 @@ Currently focusing on:
 - Git & GitHub
 
 ## Career Goal
-To grow from **Data Analytics** into **Data Science, Machine Learning, and AI**, with interest in **Computer Vision and Autonomous Systems**, and to apply these skills across Finance, Health, Oil & Gas, and Manufacturing sectors.
+To grow from **Data Analytics** into **BI and Analytics,** **Data Science, Machine Learning, and AI**, and to apply these skills across Finance, Health, Oil & Gas, and Manufacturing sectors.
 
 ## Certificates & Courses
 - OOUTech Community Data Analytics Professional Certificate
